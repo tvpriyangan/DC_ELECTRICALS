@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tvpriyangan.github.io/DC_ELECTRICALS/sitemap.xml
